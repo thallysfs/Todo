@@ -4,7 +4,7 @@
 <p align="center"> 🎬 Essa será uma aplicação de lembrete de tarefas.</p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#Ignite" src="./assets/plantmanager.png" />
+  <img alt="NextLevelWeek" title="#Ignite" src="./assets/screeen mobile todo.png" />
 </h1>
 
 ### Pré-requisitos
